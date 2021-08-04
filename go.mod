@@ -2,6 +2,7 @@ module ampho.xyz
 
 go 1.16
 
+retract v0.0.5
 retract v0.0.4
 retract v0.0.3
 retract v0.0.2
